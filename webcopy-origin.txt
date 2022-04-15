@@ -1,0 +1,363 @@
+Uri: http://slimhamdi.net/istanbul/demos/blog-post.html
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\blog-post.html
+Content Type: text/html
+
+Uri: http://slimhamdi.net/istanbul/demos/blog.html
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\blog.html
+Content Type: text/html
+
+Uri: http://slimhamdi.net/istanbul/demos/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://slimhamdi.net/istanbul/demos/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://slimhamdi.net/istanbul/demos/css/jquery.animatedheadline.css
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\css\jquery.animatedheadline.css
+Content Type: text/css
+
+Uri: http://slimhamdi.net/istanbul/demos/css/skins/blue.css
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\css\skins\blue.css
+Content Type: text/css
+
+Uri: http://slimhamdi.net/istanbul/demos/css/skins/goldrenrod.css
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\css\skins\goldrenrod.css
+Content Type: text/css
+
+Uri: http://slimhamdi.net/istanbul/demos/css/skins/green.css
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\css\skins\green.css
+Content Type: text/css
+
+Uri: http://slimhamdi.net/istanbul/demos/css/skins/magenta.css
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\css\skins\magenta.css
+Content Type: text/css
+
+Uri: http://slimhamdi.net/istanbul/demos/css/skins/orange.css
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\css\skins\orange.css
+Content Type: text/css
+
+Uri: http://slimhamdi.net/istanbul/demos/css/skins/red.css
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\css\skins\red.css
+Content Type: text/css
+
+Uri: http://slimhamdi.net/istanbul/demos/css/skins/yellow.css
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\css\skins\yellow.css
+Content Type: text/css
+
+Uri: http://slimhamdi.net/istanbul/demos/css/skins/yellowgreen.css
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\css\skins\yellowgreen.css
+Content Type: text/css
+
+Uri: http://slimhamdi.net/istanbul/demos/css/style.css
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\css\style.css
+Content Type: text/css
+
+Uri: http://slimhamdi.net/istanbul/demos/css/styleswitcher.css
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\css\styleswitcher.css
+Content Type: text/css
+
+Uri: http://slimhamdi.net/istanbul/demos/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://slimhamdi.net/istanbul/demos/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://slimhamdi.net/istanbul/demos/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://slimhamdi.net/istanbul/demos/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://slimhamdi.net/istanbul/demos/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: http://slimhamdi.net/istanbul/demos/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://slimhamdi.net/istanbul/demos/img/blog/banner.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\blog\banner.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/blog/blog-post-1.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\blog\blog-post-1.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/blog/blog-post-2.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\blog\blog-post-2.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/blog/blog-post-3.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\blog\blog-post-3.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/blog/blog-post-4.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\blog\blog-post-4.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/blog/user1.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\blog\user1.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/blog/user2.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\blog\user2.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/blog/user3.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\blog\user3.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/dark-about.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\dark-about.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/fullscreenbgimage.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\fullscreenbgimage.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/fullscreendark.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\fullscreendark.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/leftimage-bg.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\leftimage-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/projects/project-1.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\projects\project-1.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/projects/project-2.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\projects\project-2.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/projects/project-3.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\projects\project-3.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/projects/project-4.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\projects\project-4.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/projects/project-5.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\projects\project-5.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/projects/project-6.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\projects\project-6.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/projects/project-7.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\projects\project-7.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/projects/project-8.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\projects\project-8.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/projects/project-9.jpg
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\projects\project-9.jpg
+Content Type: image/jpeg
+
+Uri: http://slimhamdi.net/istanbul/demos/img/projects/video.mp4
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\projects\video.mp4
+Content Type: video/mp4
+
+Uri: http://slimhamdi.net/istanbul/demos/img/styleswitcher/blue.png
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\styleswitcher\blue.png
+Content Type: image/png
+
+Uri: http://slimhamdi.net/istanbul/demos/img/styleswitcher/goldenrod.png
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\styleswitcher\goldenrod.png
+Content Type: image/png
+
+Uri: http://slimhamdi.net/istanbul/demos/img/styleswitcher/green.png
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\styleswitcher\green.png
+Content Type: image/png
+
+Uri: http://slimhamdi.net/istanbul/demos/img/styleswitcher/magenta.png
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\styleswitcher\magenta.png
+Content Type: image/png
+
+Uri: http://slimhamdi.net/istanbul/demos/img/styleswitcher/orange.png
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\styleswitcher\orange.png
+Content Type: image/png
+
+Uri: http://slimhamdi.net/istanbul/demos/img/styleswitcher/red.png
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\styleswitcher\red.png
+Content Type: image/png
+
+Uri: http://slimhamdi.net/istanbul/demos/img/styleswitcher/yellow.png
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\styleswitcher\yellow.png
+Content Type: image/png
+
+Uri: http://slimhamdi.net/istanbul/demos/img/styleswitcher/yellowgreen.png
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\img\styleswitcher\yellowgreen.png
+Content Type: image/png
+
+Uri: http://slimhamdi.net/istanbul/demos/index-dark.html
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\index-dark.html
+Content Type: text/html
+
+Uri: http://slimhamdi.net/istanbul/demos/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://slimhamdi.net/istanbul/demos/js/custom.js
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\js\custom.js
+Content Type: application/javascript
+
+Uri: http://slimhamdi.net/istanbul/demos/js/jquery-2.2.4.min.js
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\js\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: http://slimhamdi.net/istanbul/demos/js/jquery.animatedheadline.js
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\js\jquery.animatedheadline.js
+Content Type: application/javascript
+
+Uri: http://slimhamdi.net/istanbul/demos/js/modernizr.js
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\js\modernizr.js
+Content Type: application/javascript
+
+Uri: http://slimhamdi.net/istanbul/demos/js/styleswitcher.js
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\js\styleswitcher.js
+Content Type: application/javascript
+
+Uri: http://slimhamdi.net/istanbul/demos/js/transition.js
+File Name: C:\Downloaded Web Sites\slimhamdi.net\istanbul\demos\js\transition.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700
+File Name: C:\Downloaded Web Sites\slimhamdi.net\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i
+File Name: C:\Downloaded Web Sites\slimhamdi.net\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiByp8kv8JHgFVrLBT5Z1xlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiByp8kv8JHgFVrLCz7Z1xlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiByp8kv8JHgFVrLDD4Z1xlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiByp8kv8JHgFVrLEj6Z1xlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiByp8kv8JHgFVrLGT9Z1xlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm111VF9eL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm81xVF9eL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmg1hVF9eL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmr19VF9eL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmy15VF9eL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiEyp8kv8JHgFVrJJfedw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiGyp8kv8JHgFVrJJLucHtF-1.ttf
+Content Type: font/ttf
+
+A-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\slimhamdi.net\s\poppins\v19\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
